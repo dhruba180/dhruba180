@@ -1,4 +1,5 @@
 ## 127.0.0.1
+The IP address 127.0.0.1 is known as the loopback address or localhost. It's a special IP address that refers to the current computer itself, allowing it to communicate with itself. When a request is sent to this address, it's processed locally and doesn't leave the computer. 
 
 <!--
 **dhruba180/dhruba180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
